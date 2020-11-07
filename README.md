@@ -11,4 +11,5 @@ npx create-next-app myproject --use-npm --example "https://github.com/Rebix/next
 ## About this starter template
 
 ✔ it ships with `@material-ui/core` `@material-ui/icons` `@material-ui/lab` `framer-motion` `sass` out of the box.
+
 ✔ no additional files and assets
